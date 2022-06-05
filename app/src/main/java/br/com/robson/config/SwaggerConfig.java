@@ -33,7 +33,7 @@ public class SwaggerConfig {
 				"Docker to AWS with Java.",
 				"v1",
 				"Terms Of Service Url",
-				new Contact("Leandro Costa", "www.erudio.com.br", "your_email@gmail.com"),
+				new Contact("Robson Rocha", "www.site.com.br", "robson.proxycode@gmail.com"),
 				"License of API", "License of URL", Collections.emptyList());
 	}
 }

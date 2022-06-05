@@ -15,7 +15,7 @@ services:
     networks:
       - udemy-network
   docker-to-aws-with-java:
-    image: robsonroch/spring-api-with-mysql:1.0.0
+    image: robsonroch/spring-api-with-mysql:1.0.2
     restart: always
     build:
       context: .

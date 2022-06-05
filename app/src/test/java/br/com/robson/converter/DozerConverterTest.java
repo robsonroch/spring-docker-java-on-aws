@@ -6,8 +6,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import br.com.erudio.converter.mocks.MockPerson;
-import br.com.robson.converter.DozerConverter;
+import br.com.robson.converter.mocks.MockPerson;
 import br.com.robson.data.model.Person;
 import br.com.robson.data.vo.v1.PersonVO;
 
